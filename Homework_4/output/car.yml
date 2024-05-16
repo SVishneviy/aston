@@ -1,0 +1,12 @@
+name: Audi
+color: black
+numberOfDoors: 5
+numberOfGears: 7
+weight: 1700.0
+fuelConsumption: 6.5
+hasTinting: false
+hasAlarmSystem: true
+engine:
+  housePower: 250
+  volume: 3.5
+  hasTurbocharger: true
